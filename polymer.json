@@ -1,0 +1,13 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/app.js",
+  "sources": [
+    "src/**/*"
+  ],
+  "npm": true,
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  }
+}
